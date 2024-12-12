@@ -1,3 +1,3 @@
-# Aprendizado Digital: Git
+# Aprendizado Digital: Git/Versionamento
 
-## Verificar Mundanças no Repositório de Estudo
+# Salvando Modificações de Git
